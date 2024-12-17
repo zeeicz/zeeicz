@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm xia zee</h1>
 <h3 align="center">I am a lonely programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xiazeea&label=Profile%20views&color=0e75b6&style=flat" alt="xiazeea" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xiazeea&label=Profile%20views&color=0e75b6&style=flat" alt="xiazeea" /> </p>
 
 - 🔭 I’m currently working on **Freelance**
 
