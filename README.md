@@ -1,4 +1,3 @@
-## Hi there 👋, welcome to xiazeea
 
 <!--
 **xiazeea/xiazeea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,5 +32,3 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiazeea&show_icons=true&theme=radical&locale=en&layout=compact" alt="xiazeea" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xiazeea&show_icons=true&theme=radical&locale=en" alt="xiazeea" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiazeea&" alt="xiazeea" /></p>
