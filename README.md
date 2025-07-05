@@ -1,6 +1,6 @@
 
 <!--
-**xiazeex/xiazeex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zeeicz/zeeicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm xia zee</h1>
+<h1 align="center">Hi 👋, I'm zee </h1>
 <h3 align="center">I am a lonely programmer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=xiazeex&label=Profile%20views&color=0e75b6&style=flat" alt="xiazeex" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeeicz&label=Profile%20views&color=0e75b6&style=flat" alt="zeeicz" /> </p>
 
 - 🔭 I’m currently working on **Freelance**
 
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/xiazeex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xiazeex" height="30" width="40" /></a>
+<a href="https://instagram.com/zeeicz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeeicz" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiazeex&show_icons=true&theme=radical&locale=en&layout=compact" alt="xiazeex" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeicz&show_icons=true&theme=radical&locale=en&layout=compact" alt="zeeicz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xiazeex&show_icons=true&theme=radical&locale=en" alt="xiazeex" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeicz&show_icons=true&theme=radical&locale=en" alt="zeeicz" /></p>
