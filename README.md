@@ -1,34 +1,34 @@
+<h1 align="center">Hi 👋, I'm Zee</h1>
 
-<!--
-**zeeicz/zeeicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Contributor | Developer | Open Source Enthusiast |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm zee </h1>
-<h3 align="center">I am a lonely programmer</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeeicz&label=Profile%20views&color=0e75b6&style=flat" alt="zeeicz" /> </p>
-
-- 🔭 I’m currently working on **Freelance**
-
-- 👨‍💻 All of my projects are available at [https://www.xiazee.xyz](https://www.xiazee.xyz)
-
-- 📝 I regularly write articles on [https://www.ngodeyuk.xyz](https://www.ngodeyuk.xyz)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/zeeicz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeeicz" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=I+build+for+developers.;Contributing+to+open+source+is+my+passion.;Simplicity%2C+speed+and+automation+first.;Always+learning%2C+always+sharing." />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeicz&show_icons=true&theme=radical&locale=en&layout=compact" alt="zeeicz" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeicz&show_icons=true&theme=radical&locale=en" alt="zeeicz" /></p>
+## 💫 About Me
+
+Hi there! I'm a self-taught developer who enjoys building small tools, sharing what I learn, and contributing to open source whenever I can.
+
+I'm passionate about **making things that help others**, even if it's just a script, a bot, or a quick automation. I believe that **open source is not about being perfect — it's about growing together.**
+
+Most of my projects are small, lightweight, and focused on developer experience, learning, or making life a little easier.
+
+Always learning. Always building. Always sharing.
+
+---
+
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/zeeicz)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@zeeicz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@xiazee.xyz)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zeeicz&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zeeicz&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeicz&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
