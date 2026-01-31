@@ -18,13 +18,7 @@ Most of my projects are small, lightweight, and focused on developer experience,
 
 Always learning. Always building. Always sharing.
 
----
 
-## 🌐 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/zeeicz)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@zeeicz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@xiazee.xyz)
 
 ---
 
